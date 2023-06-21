@@ -112,6 +112,11 @@
   margin-bottom: 80px;
 }
 
+.clauseItem {
+  font-size: 8px;
+  color: red;
+}
+
 .sidebar {
   background-color: #1E2939;
   padding-top: 49px;
